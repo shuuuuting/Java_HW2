@@ -1,1 +1,2 @@
-# Java_HW2
+## Java_HW2
+### concept : 方法
